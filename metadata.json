@@ -1,20 +1,20 @@
 {
-    "name":"Crunch",
+    "name":"Juno",
     "widgetVersion": 2,
     "pageTypes": ["home"],
     "thumbnail": "thumbnail.png",
-    "screenshot":"crunch-screenshot.jpg",
+    "screenshot":"juno-screenshot.jpg",
      "images":[
-        "images/template-images/cloud-image-1.jpg",
-        "images/template-images/cloud-image-2.jpg",
-        "images/template-images/cloud-image-3.jpg",
-        "images/template-images/cloud-image-4.jpg",
-        "images/template-images/cloud-image-5.jpg",
-        "images/template-images/cloud-image-6.jpg",
-        "images/template-images/cloud-image-7.jpg",
-        "images/template-images/cloud-image-8.jpg",
-        "images/template-images/cloud-image-9.jpg",
-        "images/template-images/cloud-image-10.jpg"
+        "images/template-images/store-image-1.jpg",
+        "images/template-images/store-image-2.jpg",
+        "images/template-images/store-image-3.jpg",
+        "images/template-images/store-image-4.jpg",
+        "images/template-images/store-image-5.jpg",
+        "images/template-images/store-image-6.jpg",
+        "images/template-images/store-image-7.jpg",
+        "images/template-images/store-image-8.jpg",
+        "images/template-images/store-image-9.jpg",
+        "images/template-images/store-image-10.jpg"
     ],
     "colorSwatches":
     {
@@ -29,7 +29,7 @@
         }
     },
     "fontSwatch": {
-       "title": "Roboto",
+       "title": "Noto Sans",
         "font1": {
             "font-family": "\"Noto Sans\", sans-serif",
             "font-size": "32px",
@@ -118,7 +118,7 @@
     },
     "styles": {
         "colors": {
-            "color__primary": "#3C63F0",
+            "color__primary": "#12162d",
             "color__secondary": "#f5f6f7"
         },
         "site": {
@@ -189,9 +189,9 @@
             "color__form-label--text": "#798da0"
         },
         "button": {
-            "color__button--background" : "@color__primary",
+            "color__button--background" : "#8B743D",
             "color__button--text" : "#fff",
-            "color__button--background--hover": "@color__primary",
+            "color__button--background--hover": "lighten(@color__button--background, 4%)",
             "color__button--text--hover" : "@color__button--text",
             "font__button--font-family" : "@font-swatch7-font-family",
             "font__button--font-size" : "15px",

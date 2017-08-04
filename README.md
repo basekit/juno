@@ -1,1 +1,3 @@
-# love
+# juno
+
+Amazon JP / Basekit Template

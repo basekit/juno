@@ -209,7 +209,12 @@ textarea {
 .paypalbuynow__button,
 .dropbox__button,
 .icon--filedownload,
-.phone-number-link {
+.phone-number-link,
+.advancedcontactform__button,
+.ecombasketsummary__button,
+.ecombasket__basket-toggle,
+.ecomproduct__button,
+.blogpostlist__read-more {
     background-color: @color__button--background;
     color: @color__button--text;
     .flex-display(inline-flex);
@@ -221,7 +226,7 @@ textarea {
     .transition(background 0.35s ease);
 
     &:hover {
-         background-color: lighten(@color__button--background, 15%);
+         background-color: @color__button--background--hover;
     }
 }
 
