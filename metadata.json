@@ -1,9 +1,9 @@
 {
-    "name":"Juno",
+    "name":":Legacy",
     "widgetVersion": 2,
     "pageTypes": ["home"],
-    "thumbnail": "thumbnail.png",
-    "screenshot":"juno-screenshot.jpg",
+    "thumbnail": "legacy-screenshot.jpg",
+    "screenshot":"legacy-screenshot-high.jpg",
      "images":[
         "images/template-images/store-image-1.jpg",
         "images/template-images/store-image-2.jpg",

@@ -1,3 +1,3 @@
-# juno
+# Legacy
 
 Amazon JP / Basekit Template
